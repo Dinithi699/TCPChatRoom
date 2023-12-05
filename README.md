@@ -1,1 +1,2 @@
 "# TCPChatRoom" 
+A Python-based chat application that facilitates real-time communication among multiple clients through a robust server. This project enables users to connect to a vibrant chat room, fostering seamless interaction in a decentralized environment. The server handles communication channels, ensuring a smooth and responsive experience for connected clients. Dive into the world of collaborative chatting with this simple yet powerful application.
